@@ -37,7 +37,7 @@
   	  <input type="password" name="password_2">
   	</div>
   	<div class="input-group">
-  	  <button type="submit" class="btn" name="reg_user">Register</button>
+  	  <button type="submit" class="btn" name="reg_user">Registrati</button>
   	</div>
   	<p>
   		Sei gia' membro? <a href="login.php">Accedi</a>
